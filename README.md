@@ -11,6 +11,7 @@ Diese Sammlung ist absolut unverbindlich. Wir versuchen die Sammlung so gut es g
  - [John Hopkins Worldwide](https://coronavirus.jhu.edu/map.html)
  - [Coronavirus Charts](https://mackuba.eu/corona/)
  - [Coronavirus Worldmeter](https://www.worldometers.info/coronavirus/country/germany/)
+ - [University of Virginia NSSAC](https://nssac.bii.virginia.edu/covid-19/dashboard/)
 
 #### Lageinformationen
 
